@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantBillingSystem", "GurpreetSinghTest01\RestaurantBillingSystem.csproj", "{0F9A4D72-91E0-492D-ADA5-F98938F38B35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantBillingSystem", "RestaurantBillingSystem\RestaurantBillingSystem.csproj", "{0F9A4D72-91E0-492D-ADA5-F98938F38B35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
